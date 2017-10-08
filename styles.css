@@ -1,0 +1,73 @@
+body {
+    background-color:azure;
+    font-family: Arial, "Times New Romans", serif;
+}
+
+#page {
+    width:1000px;
+    margin: auto;
+    background-color: turquoise;
+    padding: 20px;
+}
+
+#top {
+    height: 275px;
+}
+
+#para {
+    margin-right: 400px;
+    text-align: left;
+    font-style: italic;
+}
+
+#image {
+    position: relative;
+    bottom: 250px;
+    left:750px;   
+    -webkit-transform: rotate(-7deg);   
+   
+    
+}
+
+#ESE {
+    position: relative;
+    left: 80px;
+}
+
+#one {
+    padding-bottom: 20px;
+    height:112px;
+}
+#two {
+    height: 171px;
+    padding-bottom: 20px;
+    
+}
+
+#three {
+    height: 243px;
+}
+h4 {
+    width:100%;
+   
+}
+h3 {
+    width: 100%;
+}
+
+.eseHeading{
+    float: left;
+     height: 100%;
+    width: 10%;
+    border-right: thick solid ;
+    margin-right:20px;
+    border-width: medium;
+    
+}
+.eseBody{
+    float: left;
+    width: 80%;
+}
+
+
+
